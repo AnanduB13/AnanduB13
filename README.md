@@ -35,7 +35,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://bfrevren.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-www.bfrevren.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://anandu-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-anandu-portfolio.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/anandu-kurup-48386824a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anandu B Kurup-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/bfr.evren/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bfr.evren-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:anandubk13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandubk13@gmail.com-blue?style=flat-square&logo=gmail"></a>
