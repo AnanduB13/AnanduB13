@@ -19,19 +19,6 @@
 - 🛢 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=flat&logo=firebase&logoColor=white"/>
 - 🎨 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20after%20effects%20-%23BB4B9C.svg?&style=flat&logo=adobe%20after%20effects&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%2300F.svg?&style=flat&logo=adobe%20premiere%20pro&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=flat&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white"/>
 
- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br> 
-<br> 
-<a href="https://github.com/AnanduB13">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AnanduB13&theme=tokyonight&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanduB13&theme=tokyonight&layout=compact" />
-</a>
- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br> 
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
